@@ -14,5 +14,7 @@ npm.cmd install
 Install the project's dependencies once:
 
 npm install
+
+How to run the demo:
 npm run dev
 
