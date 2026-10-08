@@ -1,0 +1,14 @@
+{
+  "patient_id": 1,
+  "name": "Waffles",
+  "species": "Dog",
+  "breed": "Pembroke Welsh Corgi",
+  "sex": "Male",
+  "weight": 28,
+  "condition": {
+    "condition_id": 101,
+    "name": "Fracture",
+    "body_location": "left_front_leg",
+    "status": "Healing"
+  }
+}
